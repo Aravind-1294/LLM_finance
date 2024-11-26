@@ -66,3 +66,5 @@ To clone and run this project locally:
 ```bash
 git clone https://github.com/yourusername/Finance-Investment-LLMs-GenAI.git
 cd Finance-Investment-LLMs-GenAI
+#Sector analysis
+python app.py
