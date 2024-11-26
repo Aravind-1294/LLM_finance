@@ -1,4 +1,5 @@
 # Finance and Investment with LLMs and GenAI
+#Please Find the detailed pdf Report of the project in this repository named DB_report_Finance and Investment with LLM's and GenAI
 
 ## Overview
 This project, **Finance and Investment with LLMs and GenAI**, explores the application of Large Language Models (LLMs) and Generative AI in the field of finance and investment. Developed as part of the Bachelor of Technology degree requirements in Data Science and Artificial Intelligence, this project focuses on enhancing financial analysis, automating sector analysis, and generating actionable insights using AI-driven methods.
